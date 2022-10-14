@@ -1,6 +1,3 @@
-
-
-<img src="https://raw.githubusercontent.com/emresildir/emresildir/main/EMRE%20SİLDİR.png" width="auto">
 ### Hello,I'm @emresildir 👋
 
 
